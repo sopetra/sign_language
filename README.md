@@ -6,11 +6,14 @@
 
 Sign_language project for university course [Uvod u složeno pretraživanje podataka](http://www.pmf.unizg.hr/math/predmet/uuspp_a), academic year 2020/2021, University of Zagreb, Faculty of Science, Department of Mathematics.
 
+## Kratki opis 
+Prepoznavanje znakovnog jezika pomoću tenzora. Za skup podataka smo uzeli slike ruku koje gestikuliraju znakove engleske abecede, ali iz pet različitih kuteva. Cilj je doći do algoritma koji će za danu sliku geste izbaciti kadidata za slovo koje slika predstavlja. Pri tome želimo izbjeći osjetljivost algoritma na osvjetljenje pa koristimo YCbCr model umjesto RGB-a. 
+Detaljnije o načinu testiranja, rezultatima i toriji tenzora može se naći u [tekstu](https://github.com/sopetra/sign_language/blob/main/Prepoznavanje%20znakovnog%20jezika%20pomo%C4%87u%20tenzora.pdf) ili u [sažetku](https://github.com/sopetra/sign_language/blob/main/Prezentacija.pdf).
 
+## Pokretanje programa
+Testiranje algoritma se postiže pokretanjem 'prog.m'.
 
-
-
-## Licence
+## License
   
  [Sign_language](https://github.com/sopetra/sign_language) © 2021 by [Petra Sočo](https://github.com/sopetra) and [Jelena Zaninović](https://github.com/jelzani) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
 
