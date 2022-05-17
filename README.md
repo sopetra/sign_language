@@ -8,7 +8,7 @@ Sign_language project for university course [Uvod u složeno pretraživanje poda
 
 ## Kratki opis 
 Prepoznavanje znakovnog jezika pomoću tenzora. Za skup podataka smo uzeli slike ruku koje gestikuliraju znakove engleske abecede, ali iz pet različitih kuteva. Cilj je doći do algoritma koji će za danu sliku geste izbaciti kadidata za slovo koje slika predstavlja. Pri tome želimo izbjeći osjetljivost algoritma na osvjetljenje pa koristimo YCbCr model umjesto RGB-a. 
-Detaljnije o načinu testiranja, rezultatima i toriji tenzora može se naći u [tekstu](https://github.com/sopetra/sign_language/blob/main/Prepoznavanje%20znakovnog%20jezika%20pomo%C4%87u%20tenzora.pdf) ili u [sažetku](https://github.com/sopetra/sign_language/blob/main/Prezentacija.pdf).
+Detaljnije o načinu testiranja, rezultatima i teoriji tenzora može se naći u [tekstu](https://github.com/sopetra/sign_language/blob/main/Prepoznavanje%20znakovnog%20jezika%20pomo%C4%87u%20tenzora.pdf) ili u [sažetku](https://github.com/sopetra/sign_language/blob/main/Prezentacija.pdf).
 
 ## Pokretanje programa
 Testiranje algoritma se postiže pokretanjem 'prog.m'.
