@@ -11,7 +11,7 @@ Prepoznavanje znakovnog jezika pomoću tenzora. Za skup podataka smo uzeli slike
 Detaljnije o načinu testiranja, rezultatima i teoriji tenzora može se naći u [tekstu](https://github.com/sopetra/sign_language/blob/main/Prepoznavanje%20znakovnog%20jezika%20pomo%C4%87u%20tenzora.pdf) ili u [sažetku](https://github.com/sopetra/sign_language/blob/main/Prezentacija.pdf).
 
 ## Pokretanje programa
-Testiranje algoritma se postiže pokretanjem 'prog.m'.
+Testiranje algoritma se postiže pokretanjem `prog.m`.
 
 ## License
   
